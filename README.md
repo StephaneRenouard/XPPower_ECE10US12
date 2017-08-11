@@ -1,0 +1,2 @@
+# XPPower_ECE10US12
+XPPower ECE10US12 Eagle lib
